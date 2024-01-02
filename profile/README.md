@@ -6,7 +6,7 @@
 <p>
     Final project ini ditujukan untuk mengasah kemampuan
     pengembangan, dan mengaplikasikan pengetahuan yang telah
-    dipelajari secara keseluruhan mulai dari chapter 0 - 8.
+    dipelajari secara keseluruhan mulai dari chapter 0 - 7.
 </p>
 
 **Tema** : MOOC Platform
